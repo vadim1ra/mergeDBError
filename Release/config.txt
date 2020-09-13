@@ -1,6 +1,1 @@
 User Id=ipay;Password=IPAY;Data Source=localhost:1521/orcl;
-85
-
--- ƒальше не читаетс€ можно писать все что угодно
-User Id=ipay;Password=IPAY;Data Source=localhost:1521/orcl;
-User Id=IPAY;Password=IPAY;Data Source=fdbdev.ftc.ru:1526/dev.fdbdev.ftc.ru;
